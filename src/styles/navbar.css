@@ -1,0 +1,42 @@
+/* .kobo{
+ font-weight: bold;
+ color: rgba(6, 6, 39, 0.957);
+} */
+.kobodrop{
+    margin-right: 50px;
+    font-size: 15px;
+    font-weight: bold;
+    /* border-top-left-radius: 50%; */
+}
+Button{
+    border-radius: 10px;
+}
+.smart{
+    font-size: 28px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    padding-top: 70px;
+    color: #101828;
+
+}
+.firstSection{
+    /* margin: 50px; */
+    padding-top: 10px;
+    padding-left: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}.img-con{
+    display: flex;
+    padding-top: 20px;
+    gap: 10px;
+}
+.img-con2{
+    display: flex;
+    position: relative;
+}
+.count{
+    text-align: center;
+}.secondSection{
+    padding-left: 20px;
+}
